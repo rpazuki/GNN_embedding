@@ -1,0 +1,16 @@
+-i https://download.pytorch.org/whl/cpu
+torch==2.5.0
+-i https://pypi.org/simple
+torch_geometric==2.6.1
+-f https://data.pyg.org/whl/torch-2.5.0+cpu.html
+pyg_lib
+torch-sparse
+torch_scatter
+-f https://data.dgl.ai/wheels/torch-2.4/repo.html
+dgl
+matplotlib
+rdkit
+pandas
+deepchem
+torchdata
+datapipes

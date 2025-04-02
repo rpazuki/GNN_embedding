@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{btaa921}
+Thin Nguyen, Hang Le, Thomas~P Quinn, Tri Nguyen, Thuc~Duy Le, and Svetha
+  Venkatesh.
+\newblock Graphdta: predicting drug–target binding affinity with graph neural
+  networks.
+\newblock {\em Bioinformatics}, 37(8):1140--1147, 10 2020.
+
+\bibitem{zitnik_2017}
+Marinka Zitnik and Jure Leskovec.
+\newblock Predicting multicellular function through multi-layer tissue
+  networks.
+\newblock {\em Bioinformatics}, 33(14):i190--i198, July 2017.
+\newblock arXiv:1707.04638 [cs].
+
+\end{thebibliography}
